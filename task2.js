@@ -7,4 +7,4 @@ const userChar = readlineSync.question('Введите число: ');
 const celsiusToFahrenheit = (celsius) => (celsius * 9 / 5) + 32;
 
 //Вывод результата
-console.log(celsiusToFahrenheit(userChar)); 
+console.log(celsiusToFahrenheit(userChar));
